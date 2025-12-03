@@ -1,6 +1,6 @@
 # CSD-2025-2026-Batch-B-12
 
-# 🔊 Acoustic Sensor Based Rail Road Defect Detection
+#  Acoustic Sensor Based Rail Road Defect Detection
 
 [cite_start]This project proposes a **cost-effective and reliable** rail defect detection system that utilizes **acoustic wave technology** to identify cracks, fractures, and surface wear in real time[cite: 20].
 
