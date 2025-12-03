@@ -1,6 +1,7 @@
-<center>
-  # CSD-2025-2026-Batch-B-12
-</center>
+
+ **CSD-2025-2026-Batch-B-12**
+
+
 
 #  Acoustic Sensor Based Rail Road Defect Detection
 
