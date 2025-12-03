@@ -42,5 +42,5 @@ The solution integrates the following components for an **IoT-enabled** monitori
 | G. Ganganna | 234G5A3205 | Student |
 | V. Pranay Kumar Reddy | 214G1A3277 | Student |
 
-* **Guide:** Mr. P. Chitralingappam. [cite_start]Tech, Ph.D, Associate Professor.
+* **Guide:** Mr. P. Chitralingappam. M Tech, Ph.D, Associate Professor.
 * **Department:** Computer Science and Engineering (Data Science), SRIT.
