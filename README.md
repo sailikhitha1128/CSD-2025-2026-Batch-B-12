@@ -34,13 +34,13 @@ The solution integrates the following components for an **IoT-enabled** monitori
 * **GitHub Repository:** `github.com/sailikhitha1328/CSD-2025-2026-Batch-B-12`.
 
 ### Team
-
+<div align="center">
   | Name | Roll No. | Role |
   | :--- | :--- | :--- |
   | G. Sai Likhitha | 224G1A3278 | Student |
   | R. Venkata Balaji Sai | 234G5A3213 | Student |
   | G. Ganganna | 234G5A3205 | Student |
   | V. Pranay Kumar Reddy | 214G1A3277 | Student |
-
+</div>
 * **Guide:** Mr. P. Chitralingappam. M Tech, Ph.D, Associate Professor.
 * **Department:** Computer Science and Engineering (Data Science), SRIT.
